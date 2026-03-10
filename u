@@ -1,0 +1,46 @@
+# Next Steps
+
+## 1. Documentation Expansion
+Add the following files next:
+
+- docs/architecture/encapsulation.md  
+- docs/architecture/identity-capsule.md  
+- docs/runtime/chamber-engine.md  
+- docs/runtime/burst-service.md
+
+## 2. Source Code Scaffolding
+Create:
+
+- src/rcs/encapsulation.ts  
+- src/rcs/backbone.ts  
+- src/mesh/elevation-engine.ts  
+- src/runtime/overdrive.ts  
+- src/runtime/burst.ts
+
+## 3. Mesh Identity Capsule
+Define:
+
+- origin coordinates  
+- sovereign keyset  
+- capsule recursion rules  
+- elevation inheritance  
+- audit chain format
+
+## 4. Ritual Engine Integration
+Ensure:
+
+- chamber JSON modes are loaded  
+- ritual/bin contains invocation scripts  
+- ritual/chambers contains chamber definitions  
+- ritual/modes contains mode logic
+
+## 5. Sovereign Boundary Enforcement
+Implement:
+
+- constitutional blocks  
+- multi‑sig governance  
+- emergency continuity  
+- forensic audit trails
+
+This file is your forward roadmap.
+
